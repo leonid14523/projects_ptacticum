@@ -14,6 +14,6 @@
 - *matplotlib*
 - *numpy*
 - *SciPy.stats*
-- *folium*
+
 ## Статус проекта
 Завершен.
